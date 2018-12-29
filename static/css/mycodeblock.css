@@ -1,0 +1,31 @@
+/* --- Code blocks --- */
+
+.highlight div:first-child {
+  border-radius: 8px;
+}
+
+.highlight td:first-child pre, .highlight pre {
+  border-top-left-radius: 8px;
+  border-top-right-radius: unset;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: unset;
+  overflow: hidden;
+}
+
+.highlight td:first-child pre {
+  background-color: #56544f;
+}
+
+.highlight td:last-child pre, .highlight pre {
+  border-top-left-radius: unset;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: unset;
+  border-bottom-right-radius: 8px;
+}
+
+.highlight td:only-child pre, .highlight pre {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
