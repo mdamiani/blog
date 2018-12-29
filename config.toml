@@ -9,7 +9,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-    custom_css = ["css/mycodeblock.css"]
+    custom_css = ["css/mymain.css", "css/mycodeblock.css"]
 
     useHLJS = false
 
