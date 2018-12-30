@@ -1,0 +1,9 @@
+<script>
+    (function() {
+    var s = document.getElementsByClassName('credits')[0];
+    var newNode = document.createElement("p")
+    newNode.setAttribute("class", "credits theme-by text-muted")
+    newNode.innerHTML = "{{ i18n "license" }}"
+    s.parentNode.insertBefore(newNode, s.nextSibling);
+    })();
+</script>
