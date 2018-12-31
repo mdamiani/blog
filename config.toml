@@ -1,5 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
+defaultContentLanguage = "en"
 title = "My New Hugo Site"
 theme = "beautifulhugo"
 
@@ -7,6 +8,13 @@ pygmentsUseClassic = false
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
+
+[languages]
+    [languages.en]
+    weight = 1
+
+    [languages.it]
+    weight = 2
 
 [params]
     custom_css = ["css/mymain.css", "css/mycodeblock.css"]
