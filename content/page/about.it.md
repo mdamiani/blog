@@ -5,7 +5,7 @@ comments: false
 ---
 
 Sono un ingegnere informatico, appassionato di tecnologia e cose nerd.
-Mi interessano i linguaggi C++, Go, Python, LISP e sono sempre pronto ad
+Mi interessano i linguaggi C++, Go, Python, Lisp e sono sempre pronto ad
 impararne di nuovi. Mi piace sviluppare sistemi snelli ed efficienti, quindi
 non accetto niente che sia peggiore di _O(n⋅log(n))_ {{< emoji ":satisfied:" >}}.
 Oltre alla programmazione, mi piacciono le attività all'aperto e lo sport, per

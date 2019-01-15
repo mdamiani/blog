@@ -5,7 +5,7 @@ comments: false
 ---
 
 I'm a computer science engineer, passionate about technology and nerdy things.
-I'm interested in languages like C++, Go, Python, LISP and I'm always open to
+I'm interested in languages like C++, Go, Python, Lisp and I'm always open to
 learning new ones. I like designing lean and efficient systems, thus I won't accept
 anything worse than _O(n⋅log(n))_ {{< emoji ":satisfied:" >}}. Besides programming,
 I appreciate outdoor activities {{< emoji ":herb:" >}} and sports like
